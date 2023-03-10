@@ -4,7 +4,7 @@
 $container-small: 720px;
 
 .brands {
-  padding: 100px 0;
+  padding: 98px 0 90px;
   background-color: $color-bg-secondary-3;
 
   &__title {
@@ -12,7 +12,7 @@ $container-small: 720px;
     line-height: 1.2;
     text-align: center;
     max-width: $container-small;
-    margin: 0 auto 70px;
+    margin: 0 auto 53px;
 
     @include xl-min {
       font-size: 3.125rem; // 50px
